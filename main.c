@@ -1,6 +1,7 @@
 #include <stdio.h>
 main ()
 {
+  
 biggest2();
 factnum();
 biggest3();
